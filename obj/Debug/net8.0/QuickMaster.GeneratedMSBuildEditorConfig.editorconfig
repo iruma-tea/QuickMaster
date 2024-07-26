@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/shusuke/work_dotnet/QuickMaster
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/shusuke/work_dotnet/QuickMaster/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/shusuke/work_dotnet/QuickMaster/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/shusuke/work_dotnet/QuickMaster/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/shusuke/work_dotnet/QuickMaster/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/shusuke/work_dotnet/QuickMaster/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/shusuke/work_dotnet/QuickMaster/Views/Hello/Greet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG8vR3JlZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
