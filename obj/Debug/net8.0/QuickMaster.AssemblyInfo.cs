@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickMaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc1d25c937150d3322a926d3c5449e0155869fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickMaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickMaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
